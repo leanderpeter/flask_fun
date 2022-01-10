@@ -1,0 +1,10 @@
+wheel
+flask==1.1.1
+Flask-Cors
+flask-restx
+google.auth
+requests
+pytest
+flask-login
+uwsgi
+tqdm
